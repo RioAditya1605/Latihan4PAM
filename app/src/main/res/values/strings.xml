@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Latihan 4 PAM</string>
+    <string name="fragment_a">Fragment A</string>
+    <string name="fragment_b">Fragment B</string>
+    <string name="button1">Gass FragmentB</string>
+    <string name="button2">FragmentB</string>
+</resources>
